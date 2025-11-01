@@ -2,19 +2,18 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:iiitmprojectbakaya/Common%20Screens/Help%20and%20Support/helpandSupport.dart';
-import 'package:iiitmprojectbakaya/Common%20Screens/Login%20Screen/loginScreen.dart';
-import 'package:iiitmprojectbakaya/Customer%20Screens/My%20Profile%20Section/myProfileSection.dart';
-import 'package:iiitmprojectbakaya/Customer%20Screens/Pay%20Contact%20Screen/payContactScreen.dart';
-import 'package:iiitmprojectbakaya/Customer%20Screens/Pay%20UPI%20ID%20Screen/payUpiIdScree.dart';
-import 'package:iiitmprojectbakaya/Customer%20Screens/Qr%20Code%20Scanning%20Page/qrCodeScanningPage.dart';
-import 'package:iiitmprojectbakaya/Customer%20Screens/Recent%20Credits%20Screen/recentCredits.dart';
-import 'package:iiitmprojectbakaya/Customer%20Screens/Recent%20Settlements%20Pages/Room%20Showing%20Page/showingallRooms.dart';
-import 'package:iiitmprojectbakaya/Customer%20Screens/Recent%20Shops/recentShops.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Colors/colors.dart';
+import 'package:jiithackathon/Common%20Screens/Help%20and%20Support/helpandSupport.dart';
+import 'package:jiithackathon/Common%20Screens/Login%20Screen/loginScreen.dart';
+import 'package:jiithackathon/Customer%20Screens/My%20Profile%20Section/myProfileSection.dart';
+import 'package:jiithackathon/Customer%20Screens/Pay%20Contact%20Screen/payContactScreen.dart';
+import 'package:jiithackathon/Customer%20Screens/Pay%20UPI%20ID%20Screen/payUpiIdScree.dart';
+import 'package:jiithackathon/Customer%20Screens/Qr%20Code%20Scanning%20Page/qrCodeScanningPage.dart';
+import 'package:jiithackathon/Customer%20Screens/Recent%20Credits%20Screen/recentCredits.dart';
+import 'package:jiithackathon/Customer%20Screens/Recent%20Settlements%20Pages/Room%20Showing%20Page/showingallRooms.dart';
+import 'package:jiithackathon/Customer%20Screens/Recent%20Shops/recentShops.dart';
 import 'dart:math' as math;
-
-import 'package:iiitmprojectbakaya/UI%20Helper/Gradients/gradients.dart';
+import 'package:jiithackathon/UI%20Helper/Colors/colors.dart';
+import 'package:jiithackathon/UI%20Helper/Gradients/gradients.dart';
 
 class CustomerHomeScreen extends StatefulWidget {
   @override

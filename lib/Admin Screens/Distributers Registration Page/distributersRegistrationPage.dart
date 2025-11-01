@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Colors/colors.dart';
 import 'dart:math' as math;
+import 'package:jiithackathon/UI%20Helper/Colors/colors.dart';
+import 'package:jiithackathon/UI%20Helper/Gradients/gradients.dart';
 
-import 'package:iiitmprojectbakaya/UI%20Helper/Gradients/gradients.dart';
 
 class DistributersRegistrationPage extends StatefulWidget {
   @override

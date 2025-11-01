@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:iiitmprojectbakaya/Customer%20Screens/Customer%20Signup%20Screen/customerSignupScreen.dart';
-import 'package:iiitmprojectbakaya/Merchant%20Screens/Merchant%20Signup%20Screen/merchantSignupScreen.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Colors/colors.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Gradients/gradients.dart';
+import 'package:jiithackathon/Customer%20Screens/Customer%20Signup%20Screen/customerSignupScreen.dart';
+import 'package:jiithackathon/Merchant%20Screens/Merchant%20Signup%20Screen/merchantSignupScreen.dart';
+import 'package:jiithackathon/UI%20Helper/Colors/colors.dart';
+import 'package:jiithackathon/UI%20Helper/Gradients/gradients.dart';
 
 class AccountTypeScreen extends StatefulWidget {
   @override

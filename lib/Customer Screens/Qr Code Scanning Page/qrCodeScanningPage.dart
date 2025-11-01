@@ -1,9 +1,9 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:iiitmprojectbakaya/Customer%20Screens/Pay%20QR%20Code%20Screen/payqrcodeScreen.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Colors/colors.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Gradients/gradients.dart';
+import 'package:jiithackathon/Customer%20Screens/Pay%20QR%20Code%20Screen/payqrcodeScreen.dart';
+import 'package:jiithackathon/UI%20Helper/Colors/colors.dart';
+import 'package:jiithackathon/UI%20Helper/Gradients/gradients.dart';
 import 'package:mobile_scanner/mobile_scanner.dart';
 import 'package:image_picker/image_picker.dart';
 

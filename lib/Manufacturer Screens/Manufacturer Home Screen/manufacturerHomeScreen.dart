@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:iiitmprojectbakaya/Common%20Screens/Login%20Screen/loginScreen.dart';
-import 'package:iiitmprojectbakaya/Manufacturer%20Screens/Manufacturer%20Qr%20creation%20and%20download%20feature/qrCreationandDownload.dart';
-import 'package:iiitmprojectbakaya/Manufacturer%20Screens/Scanning%20Page/scanQr.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Colors/colors.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Gradients/gradients.dart';
+import 'package:jiithackathon/Common%20Screens/Login%20Screen/loginScreen.dart';
+import 'package:jiithackathon/Manufacturer%20Screens/Manufacturer%20Qr%20creation%20and%20download%20feature/qrCreationandDownload.dart';
+import 'package:jiithackathon/Manufacturer%20Screens/Scanning%20Page/scanQr.dart';
+import 'package:jiithackathon/UI%20Helper/Colors/colors.dart';
+import 'package:jiithackathon/UI%20Helper/Gradients/gradients.dart';
 import 'package:intl/intl.dart';
 import 'dart:math' as math;
 

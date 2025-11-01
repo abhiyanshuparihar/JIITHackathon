@@ -1,8 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Colors/colors.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Gradients/gradients.dart';
+import 'package:jiithackathon/UI%20Helper/Colors/colors.dart';
+import 'package:jiithackathon/UI%20Helper/Gradients/gradients.dart';
 
 class CustomerRegistrationPage extends StatefulWidget {
   @override

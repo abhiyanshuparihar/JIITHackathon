@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:iiitmprojectbakaya/Manufacturer%20Screens/Product%20Form%20Page/productFormPage.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Colors/colors.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Gradients/gradients.dart';
+import 'package:jiithackathon/Manufacturer%20Screens/Product%20Form%20Page/productFormPage.dart';
+import 'package:jiithackathon/UI%20Helper/Colors/colors.dart';
+import 'package:jiithackathon/UI%20Helper/Gradients/gradients.dart';
 import 'package:qr_flutter/qr_flutter.dart';
 import 'package:gal/gal.dart';
 import 'dart:math';

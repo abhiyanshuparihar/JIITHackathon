@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:iiitmprojectbakaya/Merchant%20Screens/Home%20Screen%20Merchant/homeScreenMerchant.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Colors/colors.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Gradients/gradients.dart';
+import 'package:jiithackathon/Merchant%20Screens/Home%20Screen%20Merchant/homeScreenMerchant.dart';
+import 'package:jiithackathon/UI%20Helper/Colors/colors.dart';
+import 'package:jiithackathon/UI%20Helper/Gradients/gradients.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';

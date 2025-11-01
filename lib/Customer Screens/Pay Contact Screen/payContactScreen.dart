@@ -2,11 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:iiitmprojectbakaya/Customer%20Screens/Home%20Screen%20Customer/homeScreenCustomer.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Gradients/gradients.dart';
+import 'package:jiithackathon/Customer%20Screens/Home%20Screen%20Customer/homeScreenCustomer.dart';
+import 'package:jiithackathon/UI%20Helper/Gradients/gradients.dart';
 import 'dart:ui';
 import 'dart:async';
-import 'package:shared_preferences/shared_preferences.dart';
 
 class PaymentPageWithPhone extends StatefulWidget {
   const PaymentPageWithPhone({Key? key}) : super(key: key);

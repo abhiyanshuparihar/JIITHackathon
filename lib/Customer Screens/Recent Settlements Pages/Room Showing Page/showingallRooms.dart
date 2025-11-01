@@ -3,9 +3,9 @@ import 'package:flutter/services.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:iiitmprojectbakaya/Customer%20Screens/Recent%20Settlements%20Pages/Recent%20Settlement%20Screen/recentSettlementScreen.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Colors/colors.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Gradients/gradients.dart';
+import 'package:jiithackathon/Customer%20Screens/Recent%20Settlements%20Pages/Recent%20Settlement%20Screen/recentSettlementScreen.dart';
+import 'package:jiithackathon/UI%20Helper/Colors/colors.dart';
+import 'package:jiithackathon/UI%20Helper/Gradients/gradients.dart';
 
 extension StringCasingExtension on String {
   String capitalizeWords() =>

@@ -1,15 +1,14 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:iiitmprojectbakaya/Admin%20Screens/Distributers%20Registration%20Page/distributersRegistrationPage.dart';
-import 'package:iiitmprojectbakaya/Admin%20Screens/Manufacturer%20Registration%20Page/registerManufacturer.dart';
-import 'package:iiitmprojectbakaya/Admin%20Screens/Warehousing%20Registration%20Page/wareHousingRegistrationPage.dart';
-import 'package:iiitmprojectbakaya/Admin%20Screens/WholeSalers%20Registration%20Page/wholeSalersRegistrationPage.dart';
+import 'package:jiithackathon/Admin%20Screens/Distributers%20Registration%20Page/distributersRegistrationPage.dart';
+import 'package:jiithackathon/Admin%20Screens/Manufacturer%20Registration%20Page/registerManufacturer.dart';
+import 'package:jiithackathon/Admin%20Screens/Warehousing%20Registration%20Page/wareHousingRegistrationPage.dart';
+import 'package:jiithackathon/Admin%20Screens/WholeSalers%20Registration%20Page/wholeSalersRegistrationPage.dart';
+import 'package:jiithackathon/Common%20Screens/Login%20Screen/loginScreen.dart';
 import 'dart:math' as math;
-
-import 'package:iiitmprojectbakaya/Common%20Screens/Login%20Screen/loginScreen.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Colors/colors.dart';
-import 'package:iiitmprojectbakaya/UI%20Helper/Gradients/gradients.dart';
+import 'package:jiithackathon/UI%20Helper/Colors/colors.dart';
+import 'package:jiithackathon/UI%20Helper/Gradients/gradients.dart';
 
 class AdminHomeScreen extends StatefulWidget {
   @override
