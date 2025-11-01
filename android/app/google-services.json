@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786840198516",
+    "project_id": "jiithackathon",
+    "storage_bucket": "jiithackathon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786840198516:android:65ba1d6f547c5c83f6a021",
+        "android_client_info": {
+          "package_name": "com.example.jiithackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvlGJ2Zxd69lg87fkIeeUBlUfmDJnuH9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
