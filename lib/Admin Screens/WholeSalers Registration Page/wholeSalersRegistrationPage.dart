@@ -13,7 +13,6 @@ class WholeSalersRegistrationPage extends StatefulWidget {
 
 class _WholeSalersRegistrationPageState extends State<WholeSalersRegistrationPage> with TickerProviderStateMixin {
   final _formKey = GlobalKey<FormState>();
-
   String name = '';
   String phone = '';
   String email = '';
